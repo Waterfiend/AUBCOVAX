@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proj</string>
+    <string-array name="usertype">
+        <item>Admin</item>
+        <item>Patient</item>
+        <item>Medical Personnel</item>
+    </string-array>
+</resources>
