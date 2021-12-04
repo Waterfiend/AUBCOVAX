@@ -16,12 +16,9 @@ public class MedicalPersonnel extends AppCompatActivity {
         setContentView(R.layout.activity_medical_personnel);
         _btnSearch= (Button) findViewById(R.id.btnSearch);
 
-        _btnSearch.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MedicalPersonnel.this, DoseInfo.class);
-                startActivity(intent);
-            }
+        _btnSearch.setOnClickListener(v -> {
+            Intent intent = new Intent(MedicalPersonnel.this, DoseInfo.class);
+            startActivity(intent);
         });
     }
 }

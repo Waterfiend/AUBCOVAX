@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367513840368",
+    "firebase_url": "https://eece451-app-default-rtdb.firebaseio.com",
+    "project_id": "eece451-app",
+    "storage_bucket": "eece451-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367513840368:android:bf95b3973f0834a2c27035",
+        "android_client_info": {
+          "package_name": "com.example.proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367513840368-eidcra7sha7r9dq51jmgh8ar344jshb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcaQwKbjhia-ig_0PEZGSmHg0lUmb_g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367513840368-eidcra7sha7r9dq51jmgh8ar344jshb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

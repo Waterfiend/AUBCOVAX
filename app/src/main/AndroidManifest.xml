@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Proj">
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/activity_login" />
+
         <activity
             android:name=".DoseInfo"
             android:exported="false" />
